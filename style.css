@@ -1,0 +1,28 @@
+body
+{
+  background: lightblue;
+  text-align:center;
+}
+
+li
+{
+  font-size: 24px;
+  text-align:center;
+  list-style:none;
+  width:350px;
+  background: #fff;
+  padding:10px ;
+  color:lightgrey;
+  text-decoration: italic;
+  margin:10px auto;
+  
+}
+
+input{
+    font-size: 24px;
+    text-align:center;  
+    padding:10px ;
+    color:lightgrey; 
+    width:280px;
+     margin:10px auto;
+}
